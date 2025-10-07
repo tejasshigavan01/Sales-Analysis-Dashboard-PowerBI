@@ -14,7 +14,7 @@ To run this project, ensure you have **Microsoft Power BI** installed on your sy
 * Power Query
 * DAX Query
 ## Dashboard
-![Ecommerce_Sales_Insights_page-0001](https://github.com/Praveendinesha/Sales-Insights-Analysis/assets/142248403/f5a42c27-1638-49cb-9ee0-3521b29bc9c1)
+![Ecommerce_Sales_Insights_page-0001](https://github.com/tejasshigavan01/Sales-Analysis-Dashboard-PowerBI/Dashboard)
 
 
 
